@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: "https://syahravi.github.io/hugo-minimal/"
 languageCode: "en-us"
 title: "A minimal Hugo website"
 googleAnalytics: ""
